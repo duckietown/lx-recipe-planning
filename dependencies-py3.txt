@@ -1,1 +1,3 @@
 # LIST YOUR PYTHON3 PACKAGES HERE
+shapely==2.0.7
+progressbar2

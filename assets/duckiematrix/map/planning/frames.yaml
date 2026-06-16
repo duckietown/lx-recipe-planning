@@ -1,0 +1,742 @@
+version: 1.0
+frames:
+  map_0:
+    relative_to: ~
+    pose:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      roll: 0.0
+      pitch: 0.0
+      yaw: 0.0
+  map_0/tile_0_0:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 0
+      y: 0
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_0_1:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 0
+      y: 1
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_0_2:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 0
+      y: 2
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_0_3:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 0
+      y: 3
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_0_4:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 0
+      y: 4
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_0_5:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 0
+      y: 5
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_0_6:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 0
+      y: 6
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_0_7:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 0
+      y: 7
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_1_0:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1
+      y: 0
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_1_1:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1
+      y: 1
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_1_2:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1
+      y: 2
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_1_3:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1
+      y: 3
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_1_4:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1
+      y: 4
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_1_5:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1
+      y: 5
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_1_6:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1
+      y: 6
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_1_7:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1
+      y: 7
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_2_0:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 2
+      y: 0
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_2_1:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 2
+      y: 1
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_2_2:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 2
+      y: 2
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_2_3:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 2
+      y: 3
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_2_4:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 2
+      y: 4
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_2_5:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 2
+      y: 5
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_2_6:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 2
+      y: 6
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_2_7:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 2
+      y: 7
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_3_0:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 3
+      y: 0
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_3_1:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 3
+      y: 1
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_3_2:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 3
+      y: 2
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_3_3:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 3
+      y: 3
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_3_4:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 3
+      y: 4
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_3_5:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 3
+      y: 5
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_3_6:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 3
+      y: 6
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_3_7:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 3
+      y: 7
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_4_0:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 4
+      y: 0
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_4_1:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 4
+      y: 1
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_4_2:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 4
+      y: 2
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_4_3:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 4
+      y: 3
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_4_4:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 4
+      y: 4
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_4_5:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 4
+      y: 5
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_4_6:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 4
+      y: 6
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_4_7:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 4
+      y: 7
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_5_0:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 5
+      y: 0
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_5_1:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 5
+      y: 1
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_5_2:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 5
+      y: 2
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_5_3:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 5
+      y: 3
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_5_4:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 5
+      y: 4
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_5_5:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 5
+      y: 5
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_5_6:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 5
+      y: 6
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_5_7:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 5
+      y: 7
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_6_0:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 6
+      y: 0
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_6_1:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 6
+      y: 1
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_6_2:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 6
+      y: 2
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_6_3:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 6
+      y: 3
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_6_4:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 6
+      y: 4
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_6_5:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 6
+      y: 5
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_6_6:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 6
+      y: 6
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_6_7:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 6
+      y: 7
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_7_0:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 7
+      y: 0
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_7_1:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 7
+      y: 1
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_7_2:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 7
+      y: 2
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_7_3:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 7
+      y: 3
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_7_4:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 7
+      y: 4
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_7_5:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 7
+      y: 5
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_7_6:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 7
+      y: 6
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/tile_7_7:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 7
+      y: 7
+      z: 0
+      roll: 0
+      pitch: 0
+      yaw: 0.0
+  map_0/vehicle_0:
+    relative_to: ~
+    pose:
+      x: 0.2925
+      y: 0.2925
+      z: 0.0
+      roll: 0.0
+      pitch: 0.0
+      yaw: 0.7853981633974483
+  # Signs start off-map; planning_sign_placement_script moves them on the
+  # first update() to the center of a randomly chosen driveable tile.
+  map_0/sign_stop_0:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: -10.0
+      y: -10.0
+      z: 0.0
+      roll: 0.0
+      pitch: 0.0
+      yaw: 0.0
+  map_0/sign_stop_1:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: -10.0
+      y: -10.0
+      z: 0.0
+      roll: 0.0
+      pitch: 0.0
+      yaw: 0.0
+  map_0/sign_stop_2:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: -10.0
+      y: -10.0
+      z: 0.0
+      roll: 0.0
+      pitch: 0.0
+      yaw: 0.0
+  map_0/sign_stop_3:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: -10.0
+      y: -10.0
+      z: 0.0
+      roll: 0.0
+      pitch: 0.0
+      yaw: 0.0
+  map_0/sign_stop_4:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: -10.0
+      y: -10.0
+      z: 0.0
+      roll: 0.0
+      pitch: 0.0
+      yaw: 0.0
+  map_0/sign_stop_5:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: -10.0
+      y: -10.0
+      z: 0.0
+      roll: 0.0
+      pitch: 0.0
+      yaw: 0.0
+  map_0/sign_stop_6:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: -10.0
+      y: -10.0
+      z: 0.0
+      roll: 0.0
+      pitch: 0.0
+      yaw: 0.0
+  map_0/sign_stop_7:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: -10.0
+      y: -10.0
+      z: 0.0
+      roll: 0.0
+      pitch: 0.0
+      yaw: 0.0

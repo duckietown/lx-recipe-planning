@@ -1,5 +1,5 @@
 # Exercise settings file
 
 matrix:
-  map: "loop"
+  map: "planning"
   vehicle: "map_0/vehicle_0"

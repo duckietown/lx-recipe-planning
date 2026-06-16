@@ -1,0 +1,134 @@
+version: 1.0
+scripts:
+  map_0/tile_1_1:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_1_2:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_1_3:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_1_4:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_1_5:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_1_6:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_2_1:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_2_2:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_2_3:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_2_4:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_2_5:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_2_6:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_3_1:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_3_2:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_3_3:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_3_4:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_3_5:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_3_6:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_4_1:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_4_2:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_4_3:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_4_4:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_4_5:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_4_6:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_5_1:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_5_2:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_5_3:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_5_4:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_5_5:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_5_6:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_6_1:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_6_2:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_6_3:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_6_4:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_6_5:
+    scripts:
+      - planning_tile_hole_script
+  map_0/tile_6_6:
+    scripts:
+      - planning_tile_hole_script
+  map_0/sign_stop_0:
+    scripts:
+      - planning_sign_placement_script
+  map_0/sign_stop_1:
+    scripts:
+      - planning_sign_placement_script
+  map_0/sign_stop_2:
+    scripts:
+      - planning_sign_placement_script
+  map_0/sign_stop_3:
+    scripts:
+      - planning_sign_placement_script
+  map_0/sign_stop_4:
+    scripts:
+      - planning_sign_placement_script
+  map_0/sign_stop_5:
+    scripts:
+      - planning_sign_placement_script
+  map_0/sign_stop_6:
+    scripts:
+      - planning_sign_placement_script
+  map_0/sign_stop_7:
+    scripts:
+      - planning_sign_placement_script
