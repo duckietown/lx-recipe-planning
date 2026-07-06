@@ -1,3 +1,7 @@
 # LIST YOUR DUCKIETOWN PYTHON3 PACKAGES HERE
 # NOTE: only place Duckietown libraries here; these libraries will be resolved to the latest available version and pinned; pin a specific version only if necessary
 
+# provides the InverseKinematics + PWM model used by the planning agent to
+# convert (v, omega) into motor duty cycles, matching the on-robot kinematics_node
+lib-dt-modeling
+
