@@ -1,0 +1,8 @@
+Shared Python packages for the planning recipe go here.
+
+There are currently none: everything the learner's notebooks and the
+duckiematrix agent import lives in the exercise ("meat") repo, because the
+live code editor mounts the meat over `packages/` and shadows this directory
+(only the deployed image merges recipe + meat). This placeholder keeps
+`packages/` present so the Dockerfiles' `COPY --from=recipe ./packages` step
+succeeds even when the recipe ships no Python code.
